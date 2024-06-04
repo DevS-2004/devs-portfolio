@@ -119,7 +119,7 @@ const Hero = () => {
                 <div className="absolute inset-8 bg-gradient-to-br from-primary via-blue-400 to-purple-400 rounded-full flex items-center justify-center animate-pulse-glow p-1">
                   <div className="w-full h-full bg-background rounded-full flex items-center justify-center overflow-hidden">
                     <img 
-                      src="public\WhatsApp Image 2025-07-07 at 09.41.04_07e0a74d.jpg" 
+                      src="public\ChatGPT Image Jul 8, 2025, 12_33_00 AM.jpg" 
                       alt="Devendra Singh"
                       className="w-full h-full object-cover rounded-full"
                     />
