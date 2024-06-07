@@ -2,7 +2,7 @@
 
 Welcome to my **personal portfolio website** – built to showcase my projects, skills, and journey as a developer. This site was crafted with modern tech and a focus on performance, aesthetics, and clean UI.
 
-🌐 **Live Preview**: [devs-portfoilio-navy.vercel.app](https://devs-portfoilio-navy.vercel.app)  
+
 📂 **GitHub Repo**: [github.com/DevS-2004/devs-portfolio](https://github.com/DevS-2004/devs-portfolio)
 
 ---
