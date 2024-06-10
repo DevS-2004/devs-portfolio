@@ -5,6 +5,14 @@ Welcome to my **personal portfolio website** – built to showcase my projects, 
 
 📂 **GitHub Repo**: [github.com/DevS-2004/devs-portfolio](https://github.com/DevS-2004/devs-portfolio)
 
+
+## 🌐 Live Portfolio
+
+Check out my live portfolio here:  
+🔗 [devs-portfoilio-navy.vercel.app](https://devs-portfoilio-navy.vercel.app)
+
+
+
 ---
 🛠️ Tech Stack
 Built using the modern frontend ecosystem:
