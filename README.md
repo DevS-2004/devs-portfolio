@@ -51,21 +51,30 @@ src/
 
 ```    
 
-📬 Contact
+## 📬 Contact
 
-📧 Email: devendras.it.23@nitj.ac.in
-💼 LinkedIn: linkedin.com/in/devendra-singh-97b147216
-💻 GitHub: DevS-2004
+- 📧 **Email**: [devendras.it.23@nitj.ac.in](mailto:devendras.it.23@nitj.ac.in)  
+- 💼 **LinkedIn**: [linkedin.com/in/devendra-singh-97b147216](https://linkedin.com/in/devendra-singh-97b147216)  
+- 💻 **GitHub**: [DevS-2004](https://github.com/DevS-2004)
 
-**🧠 Inspiration & Learning**
+---
+
+## 🧠 Inspiration & Learning
+
 This portfolio was built with reference to real-world portfolios, GitHub inspirations, and my own design ideas. I’ve used this to practice:
 
-Clean code structuring
-Component-based architecture
-AI/ML API usage
-UI/UX consistency
+- ✅ Clean code structuring  
+- ✅ Component-based architecture  
+- ✅ AI/ML API usage  
+- ✅ UI/UX consistency
 
-**🛡️ License**
-This project is open-source under the MIT License. Feel free to fork and customize it for your own use.
+---
+
+## 🛡️ License
+
+This project is open-source under the **MIT License**.  
+Feel free to fork and customize it for your own use.
+
+---
 
 > **“Consistency beats intensity.” — I build every day, learn every day.**
