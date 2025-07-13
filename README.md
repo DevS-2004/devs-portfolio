@@ -68,13 +68,4 @@ This portfolio was built with reference to real-world portfolios, GitHub inspira
 - ✅ AI/ML API usage  
 - ✅ UI/UX consistency
 
----
-
-## 🛡️ License
-
-This project is open-source under the **MIT License**.  
-Feel free to fork and customize it for your own use.
-
----
-
 > **“Consistency beats intensity.” — I build every day, learn every day.**
