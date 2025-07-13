@@ -1,71 +1,71 @@
-# 🚀 Devendra Singh's Portfolio
+# Devendra Singh – Full Stack Developer Portfolio
 
-Welcome to my **personal portfolio website** – built to showcase my projects, skills, and journey as a developer. This site was crafted with modern tech and a focus on performance, aesthetics, and clean UI.
+Welcome to my personal developer portfolio!  
+This project showcases my journey, skills, and major projects as a B.Tech IT student passionate about full-stack development, system design, and AI integration.
 
+## 🚀 Live Portfolio
 
-📂 **GitHub Repo**: [github.com/DevS-2004/devs-portfolio](https://github.com/DevS-2004/devs-portfolio)
+🌐 [View Live Site](https://your-deployed-portfolio-link.vercel.app)
 
+## 📌 About Me
 
-## 🌐 Live Portfolio
+I’m Devendra Singh, a pre-final year student at **Dr. B.R. Ambedkar National Institute of Technology, Jalandhar (NITJ)**, pursuing **B.Tech in Information Technology**.
 
-Check out my live portfolio here:  
-🔗 [devs-portfoilio-navy.vercel.app](https://devs-portfoilio-navy.vercel.app)
-
-
+With strong experience in the **MERN stack**, I love building responsive, scalable applications. I’m also exploring AI integration in modern web apps (like Gemini API) and enjoy contributing to open-source when time allows.
 
 ---
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
 Built using the modern frontend ecosystem:
 
-⚡️ Vite – blazing fast development bundler
+- ⚡️ [Vite](https://vitejs.dev/) – blazing fast development bundler  
+- ⚛️ [React](https://reactjs.org/) – powerful UI library  
+- 🧠 [TypeScript](https://www.typescriptlang.org/) – type-safe JavaScript  
+- 💅 [Tailwind CSS](https://tailwindcss.com/) – utility-first styling framework  
+- 🧱 [shadcn/ui](https://ui.shadcn.com/) – clean and reusable UI components  
+- 🎨 [Framer Motion](https://www.framer.com/motion/) – smooth animations  
+- 🌌 [Three.js](https://threejs.org/) – 3D graphics and enhanced visual experience                              |
 
-⚛️ React – powerful UI library
+---
 
-🧠 TypeScript – type-safe JavaScript
+## 📂 Folder Structure
 
-💅 Tailwind CSS – utility-first styling framework
+```bash
+src/
+├── components/         # Reusable UI components
+├── pages/              # Major sections like Home, Projects, Contact
+├── assets/             # Images, icons, animations
+├── hooks/              # Custom hooks (e.g., toast, scroll)
+├── utils/              # Helper functions
+└── App.jsx  
 
-🧱 shadcn/ui – modern component library for clean UI
+✨Key Features
+    Smooth page transitions using scroll-snap and framer-motion
+    Responsive design with Tailwind CSS
+    Dynamic project cards with live links and GitHub integration
+    Contact form with EmailJS and real-time toasts
+    AI-powered blog project using Gemini AI API
+    Clean design with shadcn/ui components and lucide-react icons
+    React Router DOM v6 integration
 
-🎨 Framer Motion – for smooth animations
+```    
 
-🌌 Three.js – for 3D graphics and enhanced user experience
-
-💡 Project Overview
-This is a clean, responsive, and minimalist developer portfolio that includes:
-
-Interactive and aesthetic user interface
-Sections for Projects, Skills, Experience, About, and Contact
-Resume download and view functionality
-Designed for both desktop and mobile experiences
-Dark mode toggle for user preference
-Integrated social media and GitHub links
-Engaging animations and transitions
-
-🔧 How to Run Locally
-To run this project on your local machine, follow these steps:
-
-bash
-Copy code
-# 1. Clone the repository
-git clone https://github.com/DevS-2004/devs-portfolio.git
-
-# 2. Move into the project directory
-cd devs-portfolio
-
-# 3. Install the dependencies
-npm install
-
-# 4. Start the development server
-npm run dev
 📬 Contact
+
 📧 Email: devendras.it.23@nitj.ac.in
+💼 LinkedIn: linkedin.com/in/devendra-singh-97b147216
+💻 GitHub: DevS-2004
 
-🔗 LinkedIn: linkedin.com/in/devendra-singh-97b147216
+**🧠 Inspiration & Learning**
+This portfolio was built with reference to real-world portfolios, GitHub inspirations, and my own design ideas. I’ve used this to practice:
 
-🐙 GitHub: DevS-2004
+Clean code structuring
+Component-based architecture
+AI/ML API usage
+UI/UX consistency
 
-📄 License
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code with proper attribution.
+**🛡️ License**
+This project is open-source under the MIT License. Feel free to fork and customize it for your own use.
 
-Designed & Developed with ❤️ by Devendra Singh
+> **“Consistency beats intensity.” — I build every day, learn every day.**
