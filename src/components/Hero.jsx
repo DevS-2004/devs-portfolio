@@ -144,9 +144,10 @@ const Hero = () => {
         </div>
 
         <div
-          className="absolute left-1/2 transform -translate-x-1/2"
-          style={{ bottom: '1.2rem' }} // Adjust this value as needed
+          className="absolute left-1/2 transform -translate-x-1/2 hidden sm:block"
+          style={{ bottom: '1.2rem' }}
         >
+
           <div
             onClick={() => scrollToSection('about')}
             className="group flex flex-col items-center gap-3 cursor-pointer transition-all duration-300"
