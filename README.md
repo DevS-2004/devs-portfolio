@@ -5,7 +5,7 @@ This project showcases my journey, skills, and major projects as a B.Tech IT stu
 
 ## 🚀 Live Portfolio
 
-🌐 [View Live Site](https://your-deployed-portfolio-link.vercel.app)
+🌐 [View Live Site](https://devs-portfolio-navy.vercel.app)
 
 ## 📌 About Me
 
